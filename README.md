@@ -8,8 +8,8 @@ C#
 .NET Framework/ .NET
 Windows Forms (Winforms)
 # Chức năng chính
-Tung xúc xắcc ngẫu nhiên
-Di chuyển quân cờ theo số bước
-Luân phiên lượt chơi giữa các người chơi
-Kiểm tra điều kiện thắng
-Giao diện trực quan (UI Winforms)
+- Tung xúc xắc ngẫu nhiên
+- Di chuyển quân cờ theo số bước
+- Luân phiên lượt chơi giữa các người chơi
+- Kiểm tra điều kiện thắng
+- Giao diện trực quan (UI Winforms)
